@@ -1,6 +1,7 @@
 <?php
 
-    echo "Hallo 2B!";
+    echo "Hallo POLINDRA";
+    echo '<hr>';
 
     echo "Ini perubahan fachrul";
 
