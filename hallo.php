@@ -1,5 +1,6 @@
 <?php
 
-    echo "Hallo 2B!";
+    echo "Hallo POLINDRA";
+
 
 ?>
